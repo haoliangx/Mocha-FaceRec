@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mocha</string>
+    <string name="menu_settings">Settings</string>
+    <string name="connect">Connect</string>
+    <string name="recognize">Go</string>
+    <string name="ip_address">172.30.165.20</string>
+    <string name="port">1600</string>
+
+</resources>

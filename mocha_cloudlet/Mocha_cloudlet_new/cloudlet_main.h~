@@ -1,0 +1,19 @@
+//Description: header file for cloudlet_main
+
+#pragma once
+
+#ifndef CLOUDLET_MAIN_H
+#define CLOUDLET_MAIN_H
+
+#include <winsock2.h>
+#include <ws2tcpip.h>
+#include <Windows.h>
+#include <conio.h>
+
+struct thread_arg_t{
+	mocha_packet_c mocha_packet;
+	SOCKET cloud_sock;
+	SOCKET mobile_sock;
+};
+
+#endif 

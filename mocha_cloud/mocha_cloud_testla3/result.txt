@@ -1,0 +1,10 @@
+db1\i000\0.jpg;0
+db1\i000\1.jpg;0
+db1\i000\2.jpg;0
+db1\i000\3.jpg;0
+db1\i000\4.jpg;0
+db1\i000\5.jpg;0
+db1\i000\6.jpg;0
+db1\i000\7.jpg;0
+db1\i000\8.jpg;0
+db1\i000\9.jpg;0
